@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ngochivy
+- 👋 Hi, I’m Ngo Chi Vy ( ZynC )
 - 👀 I’m interested in my subject
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on Github and others social media
