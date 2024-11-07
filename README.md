@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ngo Chi Vy</h1>
 <h3 align="center">A amatuer frontend/backend developer from VietNam</h3>
 
-- 🌱 I’m currently learning **PHP, HTML5, CSS3, ect.**
+- 🌱 I’m currently learning **PHP, HTML5, CSS3, VueJS, JS ect.**
 
 - 📫 How to reach me **chivyngo3@gmail.com**
 
